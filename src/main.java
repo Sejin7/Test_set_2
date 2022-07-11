@@ -23,5 +23,9 @@ public class main {
         // 크로아티아 문자 개수 출력하기
         baekjoon_6_9 code_6_9 = new baekjoon_6_9();
         code_6_9.solution_6_9();
+
+        // 그룹단어 체커
+        baekjoon_6_10 code_6_10 = new baekjoon_6_10();
+        code_6_10.solution_6_10();
     }
 }
