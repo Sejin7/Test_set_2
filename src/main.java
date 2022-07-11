@@ -11,5 +11,9 @@ public class main {
         // 가장 많이 사용된 알파벳 출력하기
         baekjoon_6_5 code_6_5 = new baekjoon_6_5();
         code_6_5.solution_6_5();
+
+        // 가장 많이 사용된 알파벳 출력하기
+        baekjoon_6_6 code_6_6 = new baekjoon_6_6();
+        code_6_6.solution_6_6();
     }
 }
