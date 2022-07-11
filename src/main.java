@@ -7,5 +7,9 @@ public class main {
         // 한수 개수 구하기
         baekjoon_5_3 code_5_3 = new baekjoon_5_3();
         code_5_3.solution_5_3();
+
+        // 가장 많이 사용된 알파벳 출력하기
+        baekjoon_6_5 code_6_5 = new baekjoon_6_5();
+        code_6_5.solution_6_5();
     }
 }
